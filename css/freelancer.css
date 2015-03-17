@@ -75,6 +75,22 @@ hr.star-primary:after {
     background-color: #fff;
 }
 
+hr.headphone:after {
+    content: "\f025";
+}
+
+hr.about:after {
+    content: "\f183";
+}
+
+hr.phone:after {
+    content: "\f095";
+}
+
+hr.sound:after {
+    content: "\f028";
+}
+
 .img-centered {
     margin: 0 auto;
 }
