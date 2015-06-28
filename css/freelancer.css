@@ -87,6 +87,10 @@ hr.phone:after {
     content: "\f095";
 }
 
+hr.comment:after {
+    content: "\f075";
+}
+
 hr.sound:after {
     content: "\f028";
 }
